@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-drivers-list/static/css/main.324cced1.css",
+    "main.js": "/React-drivers-list/static/js/main.3249f851.js",
+    "index.html": "/React-drivers-list/index.html",
+    "main.324cced1.css.map": "/React-drivers-list/static/css/main.324cced1.css.map",
+    "main.3249f851.js.map": "/React-drivers-list/static/js/main.3249f851.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.324cced1.css",
+    "static/js/main.3249f851.js"
+  ]
+}
