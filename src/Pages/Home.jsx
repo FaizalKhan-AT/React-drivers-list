@@ -21,7 +21,7 @@ function Home() {
     <>
       <Navbar />
       <div className=" w-100">
-        {data.length > 0 ? (
+        {data ? (
           <div className="row w-100 gap-2 my-5 d-flex justify-content-center">
             {data.map((item, idx) => {
               return <Card fetch={fetch} driver={item} key={idx} />;
